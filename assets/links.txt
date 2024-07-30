@@ -1,1 +1,2 @@
-
+gteam-logo.png: https://raw.githubusercontent.com/GTeamx/.github/main/assets/gteam-logo.png
+vpn-setup.png: https://raw.githubusercontent.com/GTeamx/.github/main/assets/vpn-setup.png
